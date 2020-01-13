@@ -1,0 +1,5 @@
+site_name: Progress Report
+nav:
+    - Progress: progress.md
+
+theme: readthedocs
